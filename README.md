@@ -1,2 +1,2 @@
 # Projet_Pokemon
-Analyst of Big Data of Pokemon with python  
+Data Analysis and programmation with Python on Pokemons.
