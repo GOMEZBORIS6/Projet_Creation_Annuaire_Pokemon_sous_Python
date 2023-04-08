@@ -1,4 +1,4 @@
-# Projet_Pokemon
+# Project_Creation_Annuaire_Pokemon_sous_Python
 **Rules:** The projects will be done by groups of 4 (or 5) students. You will need to upload exactly 5 files. The
 python scripts for the projects will be named exclusively `stockTrends.py` and `pokemonYearbook.py` , respectively.
 The automatically generated pokemon « yearbook » must be in PDF format and will be named exclusively
